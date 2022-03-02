@@ -1,11 +1,11 @@
 ## Requirements:
 Instal dependencies:
-### `npm run i`
+### `npm i`
 
 
 ## To start dev server:
-In the project directory, you can run:
+In the project directory run:
 
-### `npm start`
+### `npm run start`
 
 By default server starts at localhost:3000
