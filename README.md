@@ -1,7 +1,7 @@
-# Getting Started with Create React App
 ## Requirements:
 Instal dependencies:
 ### `npm run i`
+
 
 ## To start dev server:
 In the project directory, you can run:
