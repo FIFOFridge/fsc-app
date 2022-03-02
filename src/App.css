@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.expandable-assignments {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.expandable-assignments.collapsed {
+  flex-direction: row;
+}
+
+.headers {
+  text-align: center;
+  font-weight: 600;
+}
+
+.content-table table, tr, td {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  border: 2px solid;
+}
